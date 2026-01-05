@@ -1,50 +1,60 @@
-## Hi there 👋
+# Kamran Boroomand
 
-<!--
-**KamranBoroomand/KamranBoroomand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security-focused builder of Telegram-first products and web experiences.  
+I ship clean, operator-grade UX with practical privacy and security tooling.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-Profile README for KamranBoroomand
-Style: security console / terminal (dark + yellow)
--->
-
-<div align="center">
-
-<!-- Optional: replace with your own banner image later -->
-<!-- <img src="assets/banner.png" width="100%" alt="KamranBoroomand banner" /> -->
-
-<h1>Kamran Boroomand</h1>
-
-<p>
-  Security-minded builder of Telegram bots, web UIs, and privacy tooling.<br/>
-  Focus: anonymous communication flows, security utilities, and polished, production-like UX.
-</p>
-
-<p>
-  <a href="https://kamranboroomand.ir/">Website</a> •
-  <a href="https://kamranboroomand.github.io/NullIDdemo/">NullID Demo</a>
-  <!-- • <a href="https://t.me/YOUR_HANDLE">Telegram</a> -->
-</p>
-
-</div>
+Links:  
+- Portfolio: https://kamranboroomand.ir/  
+- NullID: https://nullid.kamranboroomand.ir/  
+- PacMan: https://packman.kamranboroomand.ir/  
 
 ---
 
-### Now
+## Console Snapshot
 
-```txt
-STATUS: building end-to-end products (bot + web UI)
-THEMES: privacy • security tooling • operator-grade UX
-STACK: Python • FastAPI • aiogram • React/Vite • TypeScript
-DEPLOY: GitHub Pages • Raspberry Pi / Linux
+IDENTITY: security console UX • serious, minimal, high-signal  
+FOCUS: privacy tooling • Telegram automation • deployable web demos  
+STACK: Python • FastAPI • aiogram • React/Vite • TypeScript • Linux  
+
+---
+
+## Featured Projects
+
+### NullID
+A security-minded Telegram + web experience centered on privacy tooling and anonymous communication patterns, presented with a serious console-style UI.  
+Repo: https://github.com/KamranBoroomand/NullID  
+Live: https://nullid.kamranboroomand.ir/  
+
+### PacMan
+A branded, shareable static web game deployment with clean structure and straightforward hosting.  
+Repo: https://github.com/KamranBoroomand/PacMan  
+Live: https://packman.kamranboroomand.ir/  
+
+### Portfolio
+My personal portfolio site and public work showcase.  
+Repo: https://github.com/KamranBoroomand/Portfolio  
+Live: https://kamranboroomand.ir/  
+
+---
+
+## Technology
+
+Backend:
+- Python (async)
+- FastAPI
+- Telegram bots: aiogram
+
+Frontend:
+- React + Vite
+- TypeScript
+
+Ops:
+- Linux deployments (including Raspberry Pi)
+- GitHub Pages / static hosting workflows
+
+---
+
+## Operating Principles
+- High-signal UX: no fluff, clear flows, predictable interactions
+- Security posture: privacy-first defaults, careful handling of user data
+- Build hygiene: modular structure, reproducible builds, clean repos
