@@ -40,20 +40,7 @@ I’m **Kamran Boroomand** — a **Linux-first** builder focused on **security-m
 ![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=f5ec00)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=f5ec00)
 
-**Network (optional)**
+**Network**
 ![WireGuard](https://img.shields.io/badge/WireGuard-111111?style=flat-square&logo=wireguard&logoColor=f5ec00)
 
 ---
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=KamranBoroomand&show_icons=true&hide_border=true&bg_color=070b08&title_color=f5ec00&text_color=ffffff&icon_color=f5ec00)
-![](https://streak-stats.demolab.com/?user=KamranBoroomand&hide_border=true&background=070b08&ring=f5ec00&fire=f5ec00&currStreakLabel=f5ec00&sideLabels=f5ec00&dates=ffffff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamranBoroomand&layout=compact&hide_border=true&bg_color=070b08&title_color=f5ec00&text_color=ffffff)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KamranBoroomand&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8)
-
----
-![](https://visitcount.itsvg.in/api?id=KamranBoroomand&icon=3&color=2)
