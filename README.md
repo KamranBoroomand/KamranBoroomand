@@ -1,75 +1,59 @@
-<!--
-Profile README for KamranBoroomand
-Style: security console / terminal (dark + yellow)
--->
+# 💫 About Me
 
-<div align="center">
+I’m **Kamran Boroomand** — a **Linux-first** builder focused on **security-minded systems**, **clean deployments**, and **high-signal UX**. I like projects that feel serious, predictable, and production-ready.
 
-<img src="assets/console-banner.svg" width="100%" alt="Console banner" />
+**Focus**
+- Linux deployments (including Raspberry Pi environments)
+- Practical security tooling and privacy-first design
+- Automation, reproducible setups, and logs-first debugging
 
-<h1>Kamran Boroomand</h1>
+**Links**
+- Portfolio: https://kamranboroomand.ir/
+- NullID: https://nullid.kamranboroomand.ir/
+- PacMan: https://packman.kamranboroomand.ir/
 
-<p>
-  Security-minded builder of Linux-first projects, web UIs, and privacy tooling.<br/>
-  Focus: operator-grade UX, clean repo hygiene, and deployable systems.
-</p>
+---
 
-<p>
-  <a href="https://kamranboroomand.ir/">Portfolio</a> •
-  <a href="https://nullid.kamranboroomand.ir/">NullID</a> •
-  <a href="https://packman.kamranboroomand.ir/">PacMan</a>
-</p>
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=f5ec00)](https://instagram.com/_Boroomand)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=f5ec00)](mailto:KamranBoroomand@mail.ru)
 
-</div>
+---
 
-<hr/>
+## 💻 Tech Stack
 
-<div align="center">
+**Core**
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=f5ec00)
+![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnu-bash&logoColor=f5ec00)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=f5ec00)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=f5ec00)
 
-<pre>
-STATUS: shipping Linux-first projects and deployable web demos
-THEMES: privacy • security tooling • operator-grade UX
-STACK: Python • FastAPI • React/Vite • TypeScript
-OPS: Linux • Raspberry Pi • CI/CD • static hosting
-</pre>
+**Backend / Ops**
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=f5ec00)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=f5ec00)
+![Nginx](https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=f5ec00)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=f5ec00)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=f5ec00)
 
-</div>
+**Frontend**
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=f5ec00)
+![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=f5ec00)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=f5ec00)
 
-<hr/>
+**Network (optional)**
+![WireGuard](https://img.shields.io/badge/WireGuard-111111?style=flat-square&logo=wireguard&logoColor=f5ec00)
 
-## Featured Projects
+---
 
-### NullID
-Security-console style web experience for privacy and security utilities.  
-Repo: https://github.com/KamranBoroomand/NullID  
-Live: https://nullid.kamranboroomand.ir/
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=KamranBoroomand&show_icons=true&hide_border=true&bg_color=070b08&title_color=f5ec00&text_color=ffffff&icon_color=f5ec00)
+![](https://streak-stats.demolab.com/?user=KamranBoroomand&hide_border=true&background=070b08&ring=f5ec00&fire=f5ec00&currStreakLabel=f5ec00&sideLabels=f5ec00&dates=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamranBoroomand&layout=compact&hide_border=true&bg_color=070b08&title_color=f5ec00&text_color=ffffff)
 
-### PacMan
-A branded, shareable static web game deployment.  
-Repo: https://github.com/KamranBoroomand/PacMan  
-Live: https://packman.kamranboroomand.ir/
+---
 
-### Portfolio
-Personal portfolio and public work showcase.  
-Repo: https://github.com/KamranBoroomand/Portfolio  
-Live: https://kamranboroomand.ir/
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KamranBoroomand&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8)
 
-<hr/>
-
-## Linux Focus
-
-- Builds and deploys on Linux (including Raspberry Pi environments)
-- Preference for reproducible setups, logs-first debugging, and clean automation
-- Practical security mindset: strict defaults, minimal attack surface, no fluff
-
-<hr/>
-
-<details>
-  <summary><b>Optional: GitHub signals</b></summary>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KamranBoroomand&show_icons=true&hide_title=true" alt="GitHub stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamranBoroomand&layout=compact" alt="Top languages" />
-  </div>
-</details>
+---
+![](https://visitcount.itsvg.in/api?id=KamranBoroomand&icon=3&color=2)
